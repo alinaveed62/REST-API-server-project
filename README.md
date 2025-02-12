@@ -13,7 +13,7 @@ This project is a simple REST API server written in Go. It exposes endpoints to 
 1. **Clone the repository:**
 
    ```bash
-   git clone https://github.com/yourusername/rest-api-server.git
+   git clone https://github.com/alinaveed62/rest-api-server.git
    cd rest-api-server
 
 
